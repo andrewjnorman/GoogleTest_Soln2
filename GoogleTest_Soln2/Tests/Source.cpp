@@ -17,5 +17,5 @@ TEST(TestGroup, FirstGroup)
 
 	ASSERT_EQ(x, 123);
 	
-	ASSERT_EQ(z, 98);
+	ASSERT_EQ(z, 99);
 }
