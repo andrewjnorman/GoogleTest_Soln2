@@ -1,5 +1,7 @@
 #include "gtest\gtest.h"
-#include "..\Program\Class1.h"
+#include "Program\Class1.h"
+#include "src\gtest_main.cc"
+#include "src\gtest-all.cc"
 
 
 
@@ -17,5 +19,5 @@ TEST(TestGroup, FirstGroup)
 
 	ASSERT_EQ(x, 123);
 	
-	ASSERT_EQ(z, 99);
+	ASSERT_EQ(z, 98);
 }

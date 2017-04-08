@@ -1,4 +1,6 @@
 #pragma once
+#include "gtest\gtest.h"
+//#include "src\gtest_main.cc"
 #include "Class1.h"
 #include <stdio.h>
 

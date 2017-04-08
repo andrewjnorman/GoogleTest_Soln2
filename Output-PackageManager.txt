@@ -1,0 +1,15 @@
+﻿
+
+Attempting to gather dependency information for package 'GoogleTestAdapter.0.9.1' with respect to project 'GoogleTestLib', targeting 'native,Version=v0.0'
+Gathering dependency information took 432.6 ms
+Attempting to resolve dependencies for package 'GoogleTestAdapter.0.9.1' with DependencyBehavior 'Lowest'
+Resolving dependency information took 0 ms
+Resolving actions to install package 'GoogleTestAdapter.0.9.1'
+Resolved actions to install package 'GoogleTestAdapter.0.9.1'
+Found package 'GoogleTestAdapter 0.9.1' in 'C:\Users\andrew\Source\Repos\GoogleTest_Soln2\packages'.
+Package 'GoogleTestAdapter.0.9.1' already exists in folder 'C:\Users\andrew\Source\Repos\GoogleTest_Soln2\packages'
+Added package 'GoogleTestAdapter.0.9.1' to 'packages.config'
+Successfully installed 'GoogleTestAdapter 0.9.1' to GoogleTestLib
+Executing nuget actions took 134.2 ms
+========== Finished ==========
+Time Elapsed: 00:00:00.7286036

@@ -15,12 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Program\Class1.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Program\Class1.cpp">
+    <ClCompile Include="Tests\Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
